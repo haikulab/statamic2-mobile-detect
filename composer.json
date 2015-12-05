@@ -1,0 +1,14 @@
+{
+    "name": "haikulab/mobile-detect",
+    "description": "Statamic 2 module using Mobile Detect library to detect device type information.",
+    "require": {
+        "mobiledetect/mobiledetectlib": "^2.8"
+    },
+    "authors": [
+        {
+            "name": "Sergei Filippov",
+            "email": "s@haiku.co.nz"
+        }
+    ],
+    "minimum-stability": "dev"
+}

@@ -1,0 +1,48 @@
+# Composer                     #
+################################
+/vendor/*
+# OS generated files           #
+################################
+.bash_history
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Modman                       #
+################################
+.modman
+
+# archives                     #
+################################
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# logs and databases           #
+################################
+*.log
+*.sql
+*.sqlite
+
+# IDE project files            #
+################################
+
+.viminfo
+/nbproject
+/.project
+/.sass-cache
+/.idea
+/cgi-bin
+*.sublime-project
+*.sublime-workspace
+/logs/

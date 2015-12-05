@@ -1,0 +1,6 @@
+name: Mobile Detect
+version: 0.1
+description: Detect device details based on user agent using Mobile Detect library.
+addon_url: https://github.com/haikulab/statamic2-mobile-detect
+developer: Haiku Lab
+developer_url: https://www.haiku.co.nz
